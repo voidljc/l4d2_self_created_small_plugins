@@ -1,12 +1,7 @@
-This repository contains a collection of small, focused SourceMod plugins.
+This repository contains a collection of small SourceMod plugins I am developing while learning.
 
-Each plugin is designed to solve a specific gameplay or engine-level problem with minimal scope and explicit behavior. 
-Rather than introducing broad rewrites or heavy logic layers, these plugins aim to make precise, well-contained adjustments that respect existing game systems.
+Each plugin focuses on a simple or interesting idea, usually exploring a specific gameplay behavior or mechanic.
+They are not intended to be large or complex systems, and some implementations may be incomplete or imperfect as part of the learning process.
 
-Common design principles across the plugins include:
-- Clear and narrow responsibility per plugin
-- Explicit constraints and predictable behavior
-- Avoidance of engine-wide side effects
-- Emphasis on correctness and maintainability over feature breadth
-
-These plugins are intended to be readable, configurable, and safe to integrate into existing servers without requiring invasive changes.
+The goal of these plugins is experimentation and practice: trying ideas, understanding how the engine behaves, and gradually improving through iteration.
+If you find something useful, feel free to adapt or improve it.
