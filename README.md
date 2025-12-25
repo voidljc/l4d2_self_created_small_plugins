@@ -7,6 +7,7 @@ The goal of these plugins is experimentation and practice: trying ideas, underst
 If you find something useful, feel free to adapt or improve it.
 
 Prerequisites
+
 All plugins in this repository are developed for Source Engine dedicated servers.
 This repository contains SourceMod script source files (.sp) only, not precompiled binaries.
 To use these plugins, the following components must be installed and properly configured:
